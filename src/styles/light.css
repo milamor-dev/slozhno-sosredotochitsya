@@ -21,6 +21,7 @@
 /* Остальные стили */
 
 @media (prefers-color-scheme: light) {
+  
   :root {
     --bg-color: #FFF1F7;
     --text-color: #353430;
