@@ -5,7 +5,7 @@
   --accent-color: #FF0070;
   --titel-color: #DB00FF;
   --title-decor-color: #000028;
-  --menu-border-color: #FF0070; 
+  --menu-border-color: #FF0070;
   --bg-image: url(../images/cover-image-dark.png);
 }
 
@@ -19,7 +19,7 @@
     --titel-color: #DB00FF;
     --title-decor-color: #000028;
     --menu-border-color: #FF0070; 
-    --bg-image: url(../images/cover-image-dark.png); 
+    --bg-image: url(../images/cover-image-dark.png);
   }
 }
 
