@@ -155,6 +155,12 @@
   margin-block-end: 50px;
 }
 
+.columns_content {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
 .section-titel {
   font-size: inherit;
   font-weight: 700;
@@ -265,12 +271,6 @@
 
 .section__two-columns {
   grid-template-columns: 1fr 2fr;
-}
-
-.two-columns_content {
-  display: flex;
-  flex-direction: column;
-  gap: 20px
 }
 
 .content-section {
